@@ -9,6 +9,7 @@
 ## 課程筆記區
 9/12 https://dolly0106.github.io/MYPAGE/
 ## 作業連結區
+hw2   https://www.youtube.com/watch?v=be95ErtEJs8
 ## 專題連結區
 
 
