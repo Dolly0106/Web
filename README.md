@@ -13,7 +13,7 @@
 > 
 > hw3   https://www.youtube.com/watch?v=RLrjdPOTN6Q
 >
-> hw4 https://www.youtube.com/watch?v=O_hxSt3qLk4
+> hw4 https://www.youtube.com/watch?v=NK0ASdiKIxY
 ## 專題連結區
 Javascript 小作品區
 > https://github.com/Dolly0106/HW3.git
